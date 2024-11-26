@@ -1,1 +1,1 @@
-# ml-water-potability-dvc
+# ml-water-quality-dvc
