@@ -61,7 +61,6 @@ class ModelTrainer:
                    
                return model
         
-
         except Exception as e:
             raise Exception(e)
         
